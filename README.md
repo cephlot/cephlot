@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an Android application
-- 🌱 I’m currently learning Android and Kotlin
+- 🔭 I’m currently working on a CRUD
+- 🌱 I’m currently learning Rust
